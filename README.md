@@ -30,7 +30,7 @@ Portfolio 3: Ids dos clientes da empresa 3
 
 ## 🚀 Como rodar este projeto
 
-🦸‍♂️  Nesta solução o DATASET já tratado precisa estar em ./data/df_mkt_enc.csv porém devido ao limite de github eu o deixei compartilhado na pasta citada com os arquivos de exemplo.
+🦸‍♂️  Nesta solução o DATASET já tratado precisa estar em ./data/df_mkt_enc.csv porém devido ao limite de tamanho do github, eu o deixei compartilhado na pasta citada com os arquivos de exemplo.
 
 🦸‍♂️  O arquivo do Jupyter Notebook utilizado para o tratamento e análise dos dados é o MarketRecommender.ipynb com todas explicações pertinentes.
 
